@@ -2,7 +2,7 @@
 
 A wifi enabled Arduino with a temperature sensor will measure the temperature of your beverage to be visualized by a mobile iOS app.
 
-## Walkthrough
+## Summary
 
 Notificoaster-Arduino consists of a wifi enabled Arduino (Adafruit Feather M0 WiFi) with a temperature sensor (LM-35). These electronics are fit inside a plastic enclosure that fits snug around a beverage can or bottle with the temperature sensor making contact with the surface of the container. 
 
